@@ -13,6 +13,7 @@ Here are some ways *you* can contribute:
 * by supporting [Processing.org][], nothing to do with us but we rely on them
 * by figuring out if we could replace swing with javafx for control_panel etc
 * by testing / contributing to the [development branch][]
+* by creating a fast math utlity sin/cos as a JRuby/Service
 
 ## Submitting an Issue
 We use the [GitHub issue tracker][issues] to track bugs and features. Before
